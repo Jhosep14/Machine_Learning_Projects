@@ -1,5 +1,4 @@
-# Data_Projects
-Professional Projects
+# Professional Projects
 The projects listed below shows my skills as Data Scientist:
 * Mining Quality Prediction
 * Chigago Crime Status
