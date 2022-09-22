@@ -4,3 +4,4 @@ The projects listed below shows my skills as Data Scientist:
 * Chigago Crime Status
 * House Sales in King Count USA
 * Cyclistic bike-share analysis 
+* Tesla, Amazon, AMD, and GameStop Financial data extracting
